@@ -1,0 +1,7 @@
+Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.Form1.resources
+Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.Properties.Resources.resources
+Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.csproj.GenerateResource.Cache
+Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\bin\Debug\PlmBomToTxtBom.exe
+Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\bin\Debug\PlmBomToTxtBom.pdb
+Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.exe
+Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.pdb
