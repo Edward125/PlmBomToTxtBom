@@ -6,3 +6,11 @@ Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\bin\Debug\PlmBomToTxtBom.pdb
 Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.exe
 Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.pdb
 Y:\EdwardCode\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.csproj.ResolveComReference.cache
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.csproj.ResolveComReference.cache
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.exe
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.pdb
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\bin\Debug\PlmBomToTxtBom.exe
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\bin\Debug\PlmBomToTxtBom.pdb
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.Form1.resources
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.Properties.Resources.resources
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Debug\PlmBomToTxtBom.csproj.GenerateResource.Cache

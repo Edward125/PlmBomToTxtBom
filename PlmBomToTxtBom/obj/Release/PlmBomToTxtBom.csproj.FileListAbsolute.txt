@@ -1,0 +1,8 @@
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Release\PlmBomToTxtBom.csproj.ResolveComReference.cache
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\bin\Release\PlmBomToTxtBom.exe
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\bin\Release\PlmBomToTxtBom.pdb
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Release\PlmBomToTxtBom.Form1.resources
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Release\PlmBomToTxtBom.Properties.Resources.resources
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Release\PlmBomToTxtBom.csproj.GenerateResource.Cache
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Release\PlmBomToTxtBom.exe
+D:\Edward\PlmBomToTxtBom\PlmBomToTxtBom\obj\Release\PlmBomToTxtBom.pdb
