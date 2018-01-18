@@ -281,12 +281,12 @@ namespace PlmBomToTxtBom
                             {
                                 foreach (string  item in _sLocation.Split (','))
                                 {
-                                    _sLine = _sPartNumber.PadRight(36) + _sPartDescription.PadRight(85) + _sQty.PadRight(5) + item;
+                                    _sLine = _sPartNumber.PadRight(36) + _sPartDescription.PadRight(65) + _sQty.PadRight(10) + item;
                                 }
                             }
                             else
                             {
-                                _sLine = _sPartNumber.PadRight(36) + _sPartDescription.PadRight(85) + _sQty.PadRight(5) + _sLocation;
+                                _sLine = _sPartNumber.PadRight(36) + _sPartDescription.PadRight(65) + _sQty.PadRight(10) + _sLocation;
                             }
                             StreamWriter sw = new StreamWriter(TXTBOM, true, Encoding.UTF8);
                             sw.WriteLine(_sLine);
@@ -330,9 +330,15 @@ namespace PlmBomToTxtBom
         private void btnHelp_Click(object sender, EventArgs e)
         {
             if (this.Height == 411)
+            {
                 this.Height = 122;
+                lblInfo.Visible = false;
+            }
             else
+            {
                 this.Height = 411;
+                lblInfo.Visible = true;
+            }
                   
         }
 
