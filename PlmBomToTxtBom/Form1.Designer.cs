@@ -30,12 +30,12 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnHelp = new System.Windows.Forms.Button();
             this.btnGo = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtExcelFile = new System.Windows.Forms.TextBox();
-            this.btnHelp = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblInfo = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -48,13 +48,23 @@
             this.groupBox1.Controls.Add(this.txtExcelFile);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(608, 63);
+            this.groupBox1.Size = new System.Drawing.Size(666, 63);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             // 
+            // btnHelp
+            // 
+            this.btnHelp.Location = new System.Drawing.Point(585, 22);
+            this.btnHelp.Name = "btnHelp";
+            this.btnHelp.Size = new System.Drawing.Size(75, 27);
+            this.btnHelp.TabIndex = 4;
+            this.btnHelp.Text = "Help";
+            this.btnHelp.UseVisualStyleBackColor = true;
+            this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click);
+            // 
             // btnGo
             // 
-            this.btnGo.Location = new System.Drawing.Point(439, 22);
+            this.btnGo.Location = new System.Drawing.Point(504, 22);
             this.btnGo.Name = "btnGo";
             this.btnGo.Size = new System.Drawing.Size(75, 27);
             this.btnGo.TabIndex = 3;
@@ -75,29 +85,10 @@
             // 
             this.txtExcelFile.Location = new System.Drawing.Point(108, 26);
             this.txtExcelFile.Name = "txtExcelFile";
-            this.txtExcelFile.Size = new System.Drawing.Size(325, 20);
+            this.txtExcelFile.Size = new System.Drawing.Size(390, 20);
             this.txtExcelFile.TabIndex = 1;
+            this.txtExcelFile.TextChanged += new System.EventHandler(this.txtExcelFile_TextChanged);
             this.txtExcelFile.DoubleClick += new System.EventHandler(this.txtExcelFile_DoubleClick);
-            // 
-            // btnHelp
-            // 
-            this.btnHelp.Location = new System.Drawing.Point(520, 22);
-            this.btnHelp.Name = "btnHelp";
-            this.btnHelp.Size = new System.Drawing.Size(75, 27);
-            this.btnHelp.TabIndex = 4;
-            this.btnHelp.Text = "Help";
-            this.btnHelp.UseVisualStyleBackColor = true;
-            this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(12, 119);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(608, 246);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
             // 
             // lblInfo
             // 
@@ -106,15 +97,25 @@
             this.lblInfo.ForeColor = System.Drawing.Color.Blue;
             this.lblInfo.Location = new System.Drawing.Point(117, 90);
             this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(385, 14);
+            this.lblInfo.Size = new System.Drawing.Size(427, 14);
             this.lblInfo.TabIndex = 2;
-            this.lblInfo.Text = "請將PLM系統download下來的原始excel綠色方框的內容行刪除";
+            this.lblInfo.Text = "請直接使用PLM download下來下的Excel檔案，并保證Level在第一行";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(12, 119);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(670, 251);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(640, 84);
+            this.ClientSize = new System.Drawing.Size(690, 84);
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox1);
@@ -140,8 +141,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtExcelFile;
         private System.Windows.Forms.Button btnHelp;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lblInfo;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

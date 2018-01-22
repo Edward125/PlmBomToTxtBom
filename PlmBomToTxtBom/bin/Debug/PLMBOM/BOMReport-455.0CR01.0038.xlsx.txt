@@ -1,0 +1,251 @@
+﻿020.F000I.0008                      CONN CTR WTB 8P 51357-00802-W01 SMD                              1.0       BTY1
+020.F000M.0006                      CONN CTR WTB 6P A1254WRA-S-06PNLBG1T00R                          1.0       SPK1
+020.F0220.0004                      CONN CTR SMD 4P 88631-00401-W02                                  1.0       FAN1
+020.F0283.0006                      CONN CTR WTB 6P SMD 3806K-F06N-04L                               1.0       DCIN1
+020.K0173.0028                      CONN FPC 28P SMD 50584-02801-W01                                 1.0       KB1
+020.K0277.0008                      CONN FPC 8P FFSNL10005N08A SMD                                   1.0       TP1
+020.K0312.0008                      CONN FPC 8P SMD 196332-08041-37                                  1.0       FP1
+022.10005.03T1                      SKT USB CONN TYPE C 24P 2UB3C02-002111F                          1.0       TYPEC1
+022.10005.08Q1                      SKT USB3.0 9P DIP C190W3-9093D-L                                 2.0       USB2
+022.10025.00S1                      SKT HDMI 19P 16-A2300-2A03-0 DIP                                 1.0       HDMI1
+062.10003.0991                      SKT NGFF KEY M 75P 40-42258-067B12HF                             1.0       SSD1
+062.10007.0161                      SKT MINI PCI 75P NASE0-S6701-TP20 SMD                            1.0       WLAN1
+063.20135.0171                      CHIP RES 200 J 1W 2512                                           1.0       R7403
+063.R0007.0101                      CHIP RES 0.0002 J 1/2W 0805 T=0.4                                1.0       R811
+068.R1510.2091                      CHIP CHOKE 0.15UH M CMME062D-R15MS0R927                          2.0       PL4801
+068.R4710.2011                      CHIP CHOKE 0.47UH PCMB062D-R47MS                                 1.0       PL5001
+071.00295.0003                      IC AUDIO CODEC ALC295-CG QFN 48P                                 1.0       U2701
+071.05450.M003                      IC TYPE-C PD RTS5450-GRT-C19 QFN46(ACER)                         1.0       U7301
+071.09028.000G                      IC KB CTRL KB9028Q C LQFP 128P                                   1.0       U2401
+072.25647.000D                      IC FEROM MX25L6473FM2I-08G SOP 8P                                1.0       U2501
+074.00524.0B9F                      IC PWR SW G524B1T11U SOT-23-5 5P                                 1.0       U5501
+074.01004.00BF                      IC DETECTOR S-1004NA23I-M5T1U SOT-23 5P                          1.0       U7405
+074.03602.0073                      IC PWM RT3602AEGQW WQFN 48P                                      1.0       PU4601
+074.05049.0A73                      IC PWM MODULE AOZ5049QI QFN 24P                                  2.0       PU4801
+074.05388.0043                      IC BUCK CONV G5388K11U TQFN 32P                                  2.0       PU5303
+074.06256.0043                      IC CONVERTER RT6256BGQUF QFN 12P                                 1.0       PU4501
+074.06258.0043                      IC CONVERTER RT6258CGQUF QFN 12P                                 1.0       PU4502
+074.06288.009B                      IC PWM SW SY6288DAAC SOT23-5                                     3.0       U6502
+074.08939.0093                      IC LOAD SWITCH APE8939GN3 DFN 3X3-8L                             1.0       U4004
+074.22976.0091                      IC LOAD SWITCH TPS22976DPUR WSON14                               2.0       U4002
+074.24780.0B73                      IC BTY CHARG BQ24780SRUYR QFN 28P                                1.0       PU4403
+074.53290.007Z                      IC POWER SW NX5P3290UKZ WLCSP16                                  1.0       U7401
+075.00054.0B7D                      IC DIODE S.B LBAT54CLT1G SOT-23                                  4.0       PD4408
+075.00550.0071                      IC DIODE ESD L05ESDL5V0NA-4 5V SLP2510P8                         4.0       U7306
+075.09904.0A7C                      IC DIODE ESD PROT AZC099-04S SOT23-6L                            6.0       EU9201
+078.22422.05F1                      CHIP CAP C 0.22U 25V K0402 X5R                                   1.0       PC4606
+082.30003.0221                      XTAL 32.768KHZ 12.5PF 20PPM NX3215SA SMD                         1.0       X1602
+082.30006.0041                      XTAL 24MHZ 12PF 20PPM SMD                                        1.0       X1601
+083.00330.008H                      DIODE S.B. SBA330AH 3A30V SOD-123HE                              1.0       D7401
+084.00138.0A31                      FET MOS PJA138KA NC SOT-23                                       1.0       Q401
+084.07002.M002                      FET MOS PJA7002H NC SOT-23 (ACER)                                1.0       Q2505
+20.F1621.002                        CONN CTR SMD 2P 88631-00201-W01                                  1.0       RTC1
+20.F1633.014                        CONN CTR SMD 14P 50208-01401-001                                 1.0       MICBD1
+20.K0397.004                        CONN FPC 4P SMD 196353-04041-3                                   1.0       KBBL1
+20.K0809.040                        CONN FPC 40P SMD 132F40-000000-A2-R                              2.0       SMB1
+34.34S02.002                        EMI CLIP MP300A                                                  2.0       SPR3
+34.4L601.001                        SPG SMD SUL-0815A1 EMI STOP                                      3.0       CLIP3
+34.4YP25.001                        BOSS M2.0 O.D4.5 PIN 0.8 WITHOUT MYLAR                           3.0       HS3
+084.00606.0037                      FET MOS PE606BA NC PDFN3*3 8P                                    4.0       PU5003
+63.10031.16L                        CHIP RES 10 J 1/8W 0805(ROHS)                                    1.0       PR4415
+63.10234.L0L                        CHIP RES 1K J 1/16W 0402 13" REEL                                3.0       R2304
+63.10334.L0L                        CHIP RES 10K J 1/16W 0402 13" REEL                               10.0      R613
+63.10433.15L                        CHIP RES 100K J 1/10W 0603(ROH                                   1.0       PR4307
+63.10434.L0L                        CHIP RES 100K J 1/16W 0402(FOR YAMA)                             1.0       PR5314
+63.10434.L1L                        CHIP RES 100K J 1/16W 0402 13" REEL                              12.0      R7455
+63.10534.L1L                        CHIP RES 1M J 1/16W 0402 13" REEL                                1.0       PR4301
+63.10634.1DL                        CHIP RES 10M J 1/16W 0402                                        2.0       R2504
+63.12434.L0L                        CHIP RES 120K J 1/16W 0402                                       1.0       PR4433
+63.15134.1DL                        CHIP RES 150 J 1/16W 0402                                        4.0       ER5704
+63.20434.1DL                        CHIP RES 200K J 1/16W 0402                                       1.0       R7401
+63.22034.L0L                        CHIP RES 22 J 1/16W 0402 13" REEL                                1.0       R1811
+63.22134.1DL                        CHIP RES 220 J 1/16W 0402                                        1.0       R728
+63.22234.L0L                        CHIP RES 2.2K J 1/16W 0402 13" REEL                              5.0       R7406
+63.33034.L0L                        CHIP RES 33 J 1/16W 0402 13" REEL                                4.0       R5502
+63.33434.L1L                        CHIP RES 330K J 1/16W 0402 13" REEL                              1.0       R2441
+63.33534.1DL                        CHIP RES 3.3M J 1/16W 0402                                       1.0       PR4402
+63.47234.L0L                        CHIP RES 4.7K J 1/16W 0402 13" REEL                              4.0       R5728
+63.47334.L0L                        CHIP RES 47K J 1/16W 0402 13" REEL                               6.0       R7402
+63.47434.15L                        CHIP RES 470K J 1/10W 0603                                       1.0       PR4303
+63.47434.1DL                        CHIP RES 470K J 1/16W 0402                                       1.0       PR4411
+63.56034.1DL                        CHIP RES 56 J 1/16W 0402                                         1.0       R727
+63.56234.1DL                        CHIP RES 5.6K J 1/16W 0402                                       1.0       R7376
+63.62234.1DL                        CHIP RES 6.2K J 1/16W 0402                                       1.0       R7318
+63.R0034.L0L                        CHIP RES 0 J 1/16W 0402 13" REEL                                 16.0      R1217
+64.10005.L1L                        CHIP RES 100 F 1/16W 0402 13" REEL                               10.0      R815
+64.10015.L3L                        CHIP RES 1K F 1/16W 0402 13" REEL                                9.0       R2502
+64.10025.L0L                        CHIP RES 10K F 1/16W 0402 13" REEL                               27.0      R7457
+64.10035.L3L                        CHIP RES 100K F 1/16W 0402 13" REEL                              22.0      R6506
+64.10045.L1L                        CHIP RES 1M F 1/16W 0402                                         3.0       R6204
+64.10225.6DL                        CHIP RES 10.2K F 1/16W 0402                                      2.0       PR5206
+64.10725.6DL                        CHIP RES 10.7K F 1/16W 0402                                      1.0       PR4622
+64.10R05.L1L                        CHIP RES 10 F 1/16W 0402 13" REEL                                4.0       PR5201
+64.10R05.L2L                        CHIP RES 10 F 1/10W 0603 13" REEL                                2.0       PR4502
+64.11035.L0L                        CHIP RES 110K F 1/16W 0402                                       2.0       PR4677
+64.11305.6DL                        CHIP RES 113 F 1/16W 0402                                        1.0       R1503
+64.12025.6DL                        CHIP RES 12K F 1/16W 0402                                        1.0       PR5102
+64.12425.6DL                        CHIP RES 12.4K F 1/16W 0402                                      1.0       R7405
+64.12725.6DL                        CHIP RES 12.7K F 1/16W 0402                                      1.0       PR5303
+64.13005.6DL                        CHIP RES 130 F 1/16W 0402                                        1.0       PR4626
+64.14305.6DL                        CHIP RES 143 F 1/16W 0402                                        1.0       PR4630
+64.15015.6DL                        CHIP RES 1.5K F 1/16W 0402                                       1.0       R2503
+64.16025.6DL                        CHIP RES 16K F 1/16W 0402                                        1.0       R2611
+64.17835.6DL                        CHIP RES 178K F 1/16W 0402                                       1.0       PR4671
+64.18015.6DL                        CHIP RES 1.8K F 1/16W 0402                                       4.0       R1305
+64.18035.L0L                        CHIP RES 180K F 1/16W 0402                                       1.0       PR4670
+64.18705.6DL                        CHIP RES 187 F 1/16W 0402                                        1.0       PR4662
+64.19105.6DL                        CHIP RES 191 F 1/16W 0402                                        1.0       PR4661
+64.1R005.6DL                        CHIP RES 1 F 1/16W 0402                                          2.0       PR5007
+64.20005.6DL                        CHIP RES 200 F 1/16W 0402                                        2.0       R501
+64.20015.L0L                        CHIP RES 2K F 1/16W 0402 13" REEL                                2.0       R4009
+64.20025.L0L                        CHIP RES 20K F 1/16W 0402 13" REEL                               1.0       R2430
+64.20035.55L                        CHIP RES 200K F 1/10W 0603                                       1.0       PR4306
+64.20035.L0L                        CHIP RES 200K F 1/16W 0402                                       2.0       R7319
+64.20035.L4L                        CHIP RES 200K F 1/16W 0402 13" REEL                              2.0       R7306
+64.21025.55L                        CHIP RES 21K F 1/10W 0603                                        1.0       PR4606
+64.21525.6DL                        CHIP RES 21.5K F 1/16W 0402                                      1.0       PR5115
+64.22035.6DL                        CHIP RES 220K F 1/16W 0402                                       1.0       R401
+64.23225.6DL                        CHIP RES 23.2K F 1/16W 0402                                      1.0       R3604
+64.23235.L0L                        CHIP RES 232K F 1/16W 0402                                       1.0       PR4406
+64.24005.6DL                        CHIP RES 240 F 1/16W 0402(ROHS                                   8.0       R1312
+64.24025.6DL                        CHIP RES 24K F 1/16W 0402                                        1.0       R4003
+64.24035.6DL                        CHIP RES 240K F 1/16W 0402                                       1.0       R7408
+64.24R95.6DL                        CHIP RES 24.9 F 1/16W 0402                                       4.0       R301
+64.27015.6DL                        CHIP RES 2.7K F 1/16W 0402                                       1.0       R1603
+64.27425.6DL                        CHIP RES 27.4K F 1/16W 0402                                      1.0       PR4624
+64.28025.6DL                        CHIP RES 28K F 1/16W 0402                                        1.0       PR4640
+64.28725.6DL                        CHIP RES 28.7K F 1/16W 0402                                      1.0       PR4650
+64.2R205.6DL                        CHIP RES 2.2 F 1/16W 0402                                        3.0       PR5302
+64.2R205.L0L                        CHIP RES 2.2 F 1/10W 0603 13" REEL                               4.0       PR5001
+64.2R705.6DL                        CHIP RES 2.7 F 1/16W 0402                                        2.0       R1306
+64.30015.6DL                        CHIP RES 3K F 1/16W 0402                                         1.0       PR5006
+64.30025.6DL                        CHIP RES 30K F 1/16W 0402                                        1.0       PR4467
+64.30135.6DL                        CHIP RES 301K F 1/16W 0402                                       1.0       R7323
+64.30905.6DL                        CHIP RES 309 F 1/16W 0402                                        1.0       PR5005
+64.31615.6DL                        CHIP RES 3.16K F 1/16W 0402                                      1.0       R7367
+64.33015.6DL                        CHIP RES 3.3K F 1/16W 0402                                       1.0       R2508
+64.33025.L0L                        CHIP RES 33K F 1/16W 0402                                        3.0       R7456
+64.34015.6DL                        CHIP RES 3.4K F 1/16W 0402                                       1.0       PR5205
+64.35705.6DL                        CHIP RES 357 F 1/16W 0402                                        1.0       PR4674
+64.36005.6DL                        CHIP RES 360 F 1/16W 0402                                        1.0       PR4708
+64.38305.6DL                        CHIP RES 383 F 1/16W 0402                                        1.0       PR4807
+64.38315.6DL                        CHIP RES 3.83K F 1/16W 0402                                      1.0       PR4641
+64.39205.6DL                        CHIP RES 392 F 1/16W 0402 (LF)                                   1.0       PR4615
+64.3R905.6DL                        CHIP RES 3.9 F 1/16W 0402                                        1.0       PR4632
+64.40215.6DL                        CHIP RES 4.02K F 1/16W 0402                                      3.0       R5721
+64.42225.6DL                        CHIP RES 42.2K F 1/16W 0402                                      1.0       PR4635
+64.43215.6DL                        CHIP RES 4.32K F 1/16W 0402                                      1.0       PR4620
+64.43R05.6DL                        CHIP RES 43 F 1/16W 0402                                         1.0       R2448
+64.44215.6DL                        CHIP RES 4.42K F 1/16W 0402(RO                                   1.0       PR4604
+64.45325.6DL                        CHIP RES 45.3K F 1/16W 0402                                      1.0       R2505
+64.45R35.6DL                        CHIP RES 45.3 F 1/16W 0402                                       1.0       PR4609
+64.47005.6DL                        CHIP RES 470 F 1/16W 0402                                        2.0       R506
+64.47025.6DL                        CHIP RES 47K F 1/16W 0402                                        1.0       R7422
+64.47525.6DL                        CHIP RES 47.5K F 1/16W 0402                                      1.0       PR4659
+64.48725.6DL                        CHIP RES 48.7K F 1/16W 0402                                      1.0       PR4642
+64.49905.6DL                        CHIP RES 499 F 1/16W 0402                                        1.0       R2203
+64.49925.6DL                        CHIP RES 49.9K F 1/16W 0402                                      1.0       PR4410
+64.49R95.L0L                        CHIP RES 49.9 F 1/16W 0402 13" REEL                              4.0       R2301
+64.51035.6DL                        CHIP RES 510K F 1/16W 0402                                       1.0       PR5108
+64.59035.6DL                        CHIP RES 590K F 1/16W 0402                                       1.0       R7308
+64.60R45.6DL                        CHIP RES 60.4 F 1/16W 0402                                       1.0       PR4613
+64.62015.6DL                        CHIP RES 6.2K F 1/16W 0402                                       1.0       PR5105
+64.62035.6DL                        CHIP RES 620K F 1/16W 0402                                       1.0       PR5208
+64.68015.6DL                        CHIP RES 6.8K F 1/16W 0402                                       2.0       PR4536
+64.71505.6DL                        CHIP RES 715 F 1/16W 0402                                        1.0       PR4675
+64.71525.6DL                        CHIP RES 71.5K F 1/16W 0402                                      1.0       PR4302
+64.73225.6DL                        CHIP RES 73.2K F 1/16W 0402                                      1.0       PR4407
+64.76825.6DL                        CHIP RES 76.8K F 1/16W 0402                                      1.0       PR4668
+64.78725.6DL                        CHIP RES 78.7K F 1/16W 0402                                      1.0       PR4412
+64.7R505.6DL                        CHIP RES 7.5 F 1/16W 0402                                        1.0       PR4424
+64.80R65.6DL                        CHIP RES 80.6 F 1/16W0402(ROHS                                   1.0       R502
+64.82015.6DL                        CHIP RES 8.2K F 1/16W 0402                                       1.0       R1818
+64.82R05.6DL                        CHIP RES 82 F 1/16W 0402                                         1.0       PR4809
+64.84515.6DL                        CHIP RES 8.45K F 1/16W 0402                                      2.0       PR4655
+64.8R205.55L                        CHIP RES 8.2 F 1/10W 0603                                        1.0       PR4618
+64.91015.6DL                        CHIP RES 9.1K F 1/16W 0402                                       1.0       PR4621
+64.95315.6DL                        CHIP RES 9.53K F 1/16W 0402                                      1.0       PR4605
+64.R0005.6DL                        CHIP RES 0 F 1/16W 0402                                          2.0       PR4682
+64.R0105.7FL                        CHIP RES 0.01 F 1W 3720                                          1.0       PR4417
+64.R0205.7FL                        CHIP RES 0.02 F 1W 3720                                          1.0       PR4404
+66.10136.04L                        CHIP NTW 100 J 4P 1*1                                            2.0       RN806
+66.10236.04L                        CHIP NTW 1K J 4P 1*1                                             2.0       RN5501
+66.10336.B8L                        CHIP NTW 10K J 8P I 2*1 13" REEL                                 2.0       RN1608
+66.10336.L0L                        CHIP NTW 10K J I 4P 1*1 13" REEL                                 9.0       RN3601
+66.10436.04L                        CHIP NTW 100K J 4P 1*1                                           3.0       RN6401
+66.20336.04L                        CHIP NTW 20K J 4P I 1*1                                          1.0       RN1601
+66.22236.A4L                        CHIP NTW 2.2K J 4P2R 1*1 13" REEL                                9.0       RN6505
+66.22236.A8L                        CHIP NTW 2.2K J 8P 2.0*1.0                                       2.0       RN609
+66.33036.04L                        CHIP NTW 33 J 4P 1*1                                             1.0       RN6502
+66.33036.A8L                        CHIP NTW 33 J 8P 2*1                                             2.0       RN1701
+66.36036.08L                        CHIP NTW 36 J 8P I 2*1                                           14.0      RN1307
+66.47236.04L                        CHIP NTW 4.7K J I 4P 1*1                                         2.0       RN6503
+66.49R96.04L                        CHIP NTW 49.9 F 4P I 1*1                                         2.0       RN2202
+68.00084.921                        CHIP BAED BLM15AG121SN1D                                         3.0       L2407
+68.00230.041                        CHIP BEAD HCB1608KF-121T30                                       4.0       ER2917
+68.01012.20B                        CHIP COMMON MODE FILTER MCM1012B900F06BP                         4.0       L7301
+68.1R010.20G                        CHIP CHOKE 1UH PCMB062D-1R0MS                                    4.0       PL5201
+68.4R710.20Y                        CHIP CHOKE 4.7UH PCMB062D-4R7MS                                  1.0       PL4401
+69.48001.081                        POLYSW 1.1A6V SPR-P110 SMD                                       2.0       F5701
+69.50007.A31                        POLY 24V/1.1A SMD1812P110TF/24                                   1.0       F5501
+69.60011.201                        THERM 10K NCP15XH103F20RC SMD                                    2.0       PR5004
+69.60011.221                        THERM 100K NCP15WF104F03RC 0402 SMD                              3.0       PR4681
+69.60013.201                        THERM 100K TSM0B104F4251RZ 0402 SMD                              1.0       RT2601
+71.08201.G03                        IC HDMI PS8201ATQFN40GTR2-A0 TQFN 40P                            1.0       U5701
+73.01G08.EHG                        IC CMOS U74LVC1G08G-AL5-R SOT-                                   1.0       U2001
+74.01339.B3F                        IC LDO S-1339D15-M5001 SOT-23-5                                  1.0       PU5302
+74.02204.03F                        IC LDO AP2204K-ADJTRG1 150MA SOT-23-5                            1.0       U7303
+74.02544.073                        IC PWR SW TPS2544RTER QFN 16P                                    1.0       U3603
+74.05930.B3D                        IC LDO APL5930KAI-TRG SOP 8P                                     1.0       PU5102
+74.09610.0E3                        IC MOS DRV RT9610BZQW WDFN 8P                                    1.0       PU5004
+74.09661.07D                        IC LDO G9661-25ADJF11U SOP 8P                                    1.0       PU5301
+75.00056.D7D                        IC DIODE SW BAW56H 75V SOT-23                                    1.0       D5701
+75.05125.07D                        IC DIODE TVS AZ5125-02S.R7G SOT-23                               4.0       ED7301
+75.27002.F7C                        IC FET MOS 2N7002KDW NC SOT-363 2KV                              9.0       Q7417
+78.10034.L0L                        CHIP CAP C 10P 50V J0402 NPO 13" REEL                            1.0       PC4531
+78.10134.L1L                        CHIP CAP C 100P 50V J0402 NPO 13" REEL                           10.0      PR4466
+78.10224.L1L                        CHIP CAP C 1000P 50V K0402 X7R 13" REEL                          5.0       EC2958
+78.10324.L0L                        CHIP CAP C 0.01U 50V K0402 X7R 13" REEL                          4.0       PC4410
+78.10421.L0L                        CHIP CAP C 0.1U 16V K0402 X7R 13" REEL                           1.0       EC3603
+78.10422.L1L                        CHIP CAP C 0.1U 25V K0402 X5R 13" REEL                           121.0     PC5214
+78.10424.L0L                        CHIP CAP C 0.1U 50V K0603 X7R 13" REEL                           7.0       PC4304
+78.10523.L2L                        CHIP CAP C 1U 10V K0402 X5R 13" REEL                             88.0      PC5309
+78.10524.5BL                        CHIP CAP C 1U 50V K0603 X5R                                      7.0       PC5119
+78.10610.5FL                        CHIP CAP C 10U 6.3V M0402 X5R                                    57.0      PC1139
+78.10610.L0L                        CHIP CAP C 10U 6.3V M0603 X5R 13" REEL                           42.0      PC5303
+78.10622.LAL                        CHIP CAP C 10U 25V K0805 X5R(T1.45) 13"                          24.0      PC5205
+78.10710.52L                        CHIP CAP C 100U 6.3V M1206 X5R                                   2.0       C3516
+78.15034.L1L                        CHIP CAP C 15P 50V J0402 NPO 13" REEL                            4.0       C1604
+78.22034.L1L                        CHIP CAP C 22P 50V J0402 NPO 13" REEL                            4.0       PC5305
+78.22124.2FL                        CHIP CAP C 220P 50V K0402 X7R                                    5.0       PC4619
+78.22224.L0L                        CHIP CAP C 2200P 50V K0402 X7R 13" REEL                          1.0       PC4302
+78.22321.2FL                        CHIP CAP 0.022U 16V K0402 X7R                                    2.0       C1302
+78.22422.2BL                        CHIP C 0.22U25V K0603 X7R T1.0                                   3.0       PC5005
+78.22423.L2L                        CHIP CAP C 0.22U 10V K0402 X5R 13" REEL                          7.0       C6209
+78.22523.L1L                        CHIP CAP C 2.2U 10V K 0603 X5R 13" REEL                          4.0       PC5001
+78.22610.L2L                        CHIP CAP C 22U 6.3V M0805 X5R 13" REEL                           9.0       PC4525
+78.22610.L4L                        CHIP CAP C 22U 6.3V M0603 X5R T1.0 13"RE                         50.0      PC5213
+78.33124.2FL                        CHIP CAP C 330P 50V K0402 X7R                                    1.0       PC4622
+78.47034.1FL                        CHIP CAP C 47P 50V J0402 NPO                                     1.0       PC4533
+78.47124.L0L                        CHIP CAP C 470P 50V K0402 X7R 13" REEL                           2.0       C4018
+78.47322.2FL                        CHIP CAP C 0.047U 25V K0402 X7R                                  9.0       PC4417
+78.47422.5BL                        CHIP CAP 0.47U 25V K0603 X5R                                     6.0       PC5006
+78.47520.5FL                        CHIP CAP C 4.7U 6.3V K0402 X5R                                   2.0       PC4528
+78.47520.L0L                        CHIP CAP C 4.7U 6.3V K0603 X5R 13" REEL                          6.0       PC4603
+78.47522.L4L                        CHIP CAP C 4.7U 25V K0805 X5R 13" REEL                           4.0       PC5102
+78.68034.1FL                        CHIP CAP 68P 50V J 0402 NPO                                      3.0       PC4623
+79.33719.20C                        CHIP CAP 330U2V M7343 EEFSX0D                                    2.0       PT4801
+83.P6SMB.AAG                        DIODE TVS P6SMBJ20A SMB                                          1.0       PD4304
+83.R2003.A8M                        DIODE S.B RB520S30 30V SOD-523                                   6.0       PD4407
+83.R5003.H8H                        DIODE S.B RB551V30 0.5A 30V SOD-323                              3.0       D4004
+83.R5003.I8F                        DIODE S.B PMEG3005AEA SOD-323                                    1.0       D7302
+84.00024.01K                        XTOR LTA024EUB FS8 PNP UMT3F                                     1.0       PQ4303
+84.00024.A1K                        XTOR LTC024EUBFS8TL NPN UMT3F                                    1.0       PQ4302
+84.03415.A31                        FET MOS DMG3415U-7 PC SOT-23                                     2.0       Q7317
+84.03906.F11                        XTOR PMBS3906,215 PNP SOT-23 (GP)                                1.0       Q2403
+84.08131.037                        FET MOS TPCC8131 PC 2-3X1S 8P                                    5.0       Q7402
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q7414
+84.T3904.H11                        XTOR LMBT3904LT1G NPN SOT-23                                     1.0       Q4004
+KC.71301.U00                        IC CPU KBL I3-7130U 2.70GHZ 15W 6MB U2+2                         1.0       CPU1
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM8
+NC.23711.00L                        G SENSOR BOSCH BMA253 X2                                         1.0       U7001

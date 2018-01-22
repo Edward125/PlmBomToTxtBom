@@ -10,8 +10,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("edward_song@yeah.net")]
 [assembly: AssemblyProduct("PlmBomToTxtBom")]
-[assembly: AssemblyCopyright("Wistron WCD Copyright ©  2018-01-18")]
-[assembly: AssemblyTrademark("Wistron WCD Copyright ©  2018-01-18")]
+[assembly: AssemblyCopyright("Wistron WCD Copyright ©  2018-01-21")]
+[assembly: AssemblyTrademark("Wistron WCD Copyright ©  2018-01-21")]
 [assembly: AssemblyCulture("")]
 
 // 将 ComVisible 设置为 false 使此程序集中的类型
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // 可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值，
 // 方法是按如下所示使用“*”:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.1")]
-[assembly: AssemblyFileVersion("1.0.0.1")]
+[assembly: AssemblyVersion("1.0.0.4")]
+[assembly: AssemblyFileVersion("1.0.0.4")]

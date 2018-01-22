@@ -1,0 +1,32 @@
+﻿022.10005.08Q1                      SKT USB3.0 9P DIP C190W3-9093D-L                                 2.0       USB2
+022.10005.08Q1                      SKT USB3.0 9P DIP C190W3-9093D-L                                 2.0       USB1
+068.R1510.2091                      CHIP CHOKE 0.15UH M CMME062D-R15MS0R927                          3.0       PL4801
+068.R1510.2091                      CHIP CHOKE 0.15UH M CMME062D-R15MS0R927                          3.0       PL4702
+068.R1510.2091                      CHIP CHOKE 0.15UH M CMME062D-R15MS0R927                          3.0       PL4701
+84.08131.037                        FET MOS TPCC8131 PC 2-3X1S 8P                                    5.0       Q7402
+84.08131.037                        FET MOS TPCC8131 PC 2-3X1S 8P                                    5.0       PU4401
+84.08131.037                        FET MOS TPCC8131 PC 2-3X1S 8P                                    5.0       PU4301
+84.08131.037                        FET MOS TPCC8131 PC 2-3X1S 8P                                    5.0       Q7401
+84.08131.037                        FET MOS TPCC8131 PC 2-3X1S 8P                                    5.0       PU4402
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q7414
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q7403
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q7315
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q6502
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q6501
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q4005
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q2603
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q2404
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q1603
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      Q1501
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      PQ4461
+84.2N702.J31                        FET MOS 2N7002K NC SOT-23 ESD 2KV 300MA                          12.0      PQ4301
+84.T3904.H11                        XTOR LMBT3904LT1G NPN SOT-23                                     1.0       Q4004
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM8
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM5
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM4
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM7
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM6
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM1
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM3
+KN.8GB0G.049                        IC SDRAM H5AN8G6NAFR-UHC FBGA96P DDR4                            8.0       RAM2
+NC.23711.00L                        G SENSOR BOSCH BMA253 X2                                         1.0       U7001
